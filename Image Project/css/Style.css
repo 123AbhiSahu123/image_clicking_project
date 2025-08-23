@@ -1,0 +1,11 @@
+*
+{
+    margin: 0%;
+    display: grid;
+}
+
+.Second:hover
+{
+ background-color: red;
+ cursor: pointer;
+}
